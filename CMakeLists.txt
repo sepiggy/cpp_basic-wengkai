@@ -3,4 +3,4 @@ project(cpp_basic_wengkai)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cpp_basic_wengkai chapter01/read.cpp)
+add_executable(cpp_basic_wengkai chapter04/main.cpp chapter04/TicketMachine.cpp chapter04/TicketMachine.h)
